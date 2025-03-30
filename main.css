@@ -16,4 +16,17 @@ p {
   font-family: Arial
 }
 
+header {
+  background-color: darkcyan;
+  color: white;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 15px;
+}
+
+.logo {
+  height: 75px; 
+  margin-left: auto;
+}
 
